@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Array Practice\bin\Debug\Array Practice.exe.config
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Array Practice\bin\Debug\Array Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Array Practice\bin\Debug\Array Practice.pdb
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Array Practice\obj\Debug\Array Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Array Practice\obj\Debug\Array Practice.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Array Practice\obj\Debug\Array Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Array Practice\obj\Debug\Array Practice.pdb

@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\OOP Practice\bin\Debug\OOP Practice.exe.config
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\OOP Practice\bin\Debug\OOP Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\OOP Practice\bin\Debug\OOP Practice.pdb
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\OOP Practice\obj\Debug\OOP Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\OOP Practice\obj\Debug\OOP Practice.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\OOP Practice\obj\Debug\OOP Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\OOP Practice\obj\Debug\OOP Practice.pdb
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\OOP Practice\bin\Debug\OOP Practice.exe.config
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\OOP Practice\bin\Debug\OOP Practice.exe
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\OOP Practice\bin\Debug\OOP Practice.pdb
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\OOP Practice\obj\Debug\OOP Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\OOP Practice\obj\Debug\OOP Practice.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\OOP Practice\obj\Debug\OOP Practice.exe
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\OOP Practice\obj\Debug\OOP Practice.pdb

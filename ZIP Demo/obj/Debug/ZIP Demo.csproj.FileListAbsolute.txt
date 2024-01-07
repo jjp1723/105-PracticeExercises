@@ -1,0 +1,14 @@
+F:\GDAPS\ZIP Demo\bin\Debug\ZIP Demo.exe.config
+F:\GDAPS\ZIP Demo\bin\Debug\ZIP Demo.exe
+F:\GDAPS\ZIP Demo\bin\Debug\ZIP Demo.pdb
+F:\GDAPS\ZIP Demo\obj\Debug\ZIP Demo.csprojAssemblyReference.cache
+F:\GDAPS\ZIP Demo\obj\Debug\ZIP Demo.csproj.CoreCompileInputs.cache
+F:\GDAPS\ZIP Demo\obj\Debug\ZIP Demo.exe
+F:\GDAPS\ZIP Demo\obj\Debug\ZIP Demo.pdb
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\ZIP Demo\bin\Debug\ZIP Demo.exe.config
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\ZIP Demo\bin\Debug\ZIP Demo.exe
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\ZIP Demo\bin\Debug\ZIP Demo.pdb
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\ZIP Demo\obj\Debug\ZIP Demo.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\ZIP Demo\obj\Debug\ZIP Demo.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\ZIP Demo\obj\Debug\ZIP Demo.exe
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\ZIP Demo\obj\Debug\ZIP Demo.pdb

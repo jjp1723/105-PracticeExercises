@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\Conditional Practice\bin\Debug\Conditional Practice.exe.config
+F:\School Stuff\RIT\GDAPS\Conditional Practice\bin\Debug\Conditional Practice.exe
+F:\School Stuff\RIT\GDAPS\Conditional Practice\bin\Debug\Conditional Practice.pdb
+F:\School Stuff\RIT\GDAPS\Conditional Practice\obj\Debug\Conditional Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Conditional Practice\obj\Debug\Conditional Practice.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Conditional Practice\obj\Debug\Conditional Practice.exe
+F:\School Stuff\RIT\GDAPS\Conditional Practice\obj\Debug\Conditional Practice.pdb

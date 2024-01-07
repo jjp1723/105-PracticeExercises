@@ -1,0 +1,7 @@
+F:\GDAPS\Parse Practice\bin\Debug\Parse Practice.exe.config
+F:\GDAPS\Parse Practice\bin\Debug\Parse Practice.exe
+F:\GDAPS\Parse Practice\bin\Debug\Parse Practice.pdb
+F:\GDAPS\Parse Practice\obj\Debug\Parse Practice.csprojAssemblyReference.cache
+F:\GDAPS\Parse Practice\obj\Debug\Parse Practice.csproj.CoreCompileInputs.cache
+F:\GDAPS\Parse Practice\obj\Debug\Parse Practice.exe
+F:\GDAPS\Parse Practice\obj\Debug\Parse Practice.pdb

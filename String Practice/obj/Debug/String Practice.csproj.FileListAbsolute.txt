@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\String Practice\bin\Debug\String Practice.exe.config
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\String Practice\bin\Debug\String Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\String Practice\bin\Debug\String Practice.pdb
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\String Practice\obj\Debug\String Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\String Practice\obj\Debug\String Practice.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\String Practice\obj\Debug\String Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\String Practice\obj\Debug\String Practice.pdb

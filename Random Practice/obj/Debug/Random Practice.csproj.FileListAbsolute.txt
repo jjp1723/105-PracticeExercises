@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Random Practice\bin\Debug\Random Practice.exe.config
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Random Practice\bin\Debug\Random Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Random Practice\bin\Debug\Random Practice.pdb
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Random Practice\obj\Debug\Random Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Random Practice\obj\Debug\Random Practice.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Random Practice\obj\Debug\Random Practice.exe
+F:\School Stuff\RIT\GDAPS\(Practice Exercises)\Random Practice\obj\Debug\Random Practice.pdb
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\Random Practice\bin\Debug\Random Practice.exe.config
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\Random Practice\bin\Debug\Random Practice.exe
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\Random Practice\bin\Debug\Random Practice.pdb
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\Random Practice\obj\Debug\Random Practice.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\Random Practice\obj\Debug\Random Practice.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\Random Practice\obj\Debug\Random Practice.exe
+F:\School Stuff\RIT\GDAPS\In-Class Exercises\Random Practice\obj\Debug\Random Practice.pdb
