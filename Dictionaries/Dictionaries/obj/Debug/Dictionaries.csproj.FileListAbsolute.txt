@@ -1,0 +1,14 @@
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb

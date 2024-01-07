@@ -1,0 +1,14 @@
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\bin\Debug\Inheritance.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\bin\Debug\Inheritance.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\bin\Debug\Inheritance.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\bin\Debug\Inheritance.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\bin\Debug\Inheritance.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\bin\Debug\Inheritance.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Inheritance\obj\Debug\Inheritance.pdb

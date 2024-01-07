@@ -1,0 +1,14 @@
+G:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Calculator\bin\Debug\Calculator.exe.config
+G:\School Stuff\RIT\GDAPS\Calculator\bin\Debug\Calculator.exe
+G:\School Stuff\RIT\GDAPS\Calculator\bin\Debug\Calculator.pdb
+G:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.exe
+G:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.pdb
+F:\School Stuff\RIT\GDAPS\Calculator\bin\Debug\Calculator.exe.config
+F:\School Stuff\RIT\GDAPS\Calculator\bin\Debug\Calculator.exe
+F:\School Stuff\RIT\GDAPS\Calculator\bin\Debug\Calculator.pdb
+F:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.exe
+F:\School Stuff\RIT\GDAPS\Calculator\obj\Debug\Calculator.pdb

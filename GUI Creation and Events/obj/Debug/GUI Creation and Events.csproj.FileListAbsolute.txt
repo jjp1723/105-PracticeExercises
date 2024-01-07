@@ -1,0 +1,20 @@
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\bin\Debug\GUI Creation and Events.exe.config
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\bin\Debug\GUI Creation and Events.exe
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\bin\Debug\GUI Creation and Events.pdb
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI_Creation_and_Events.Form1.resources
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI_Creation_and_Events.Properties.Resources.resources
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.csproj.GenerateResource.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.exe
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.pdb
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\bin\Debug\GUI Creation and Events.exe.config
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\bin\Debug\GUI Creation and Events.exe
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\bin\Debug\GUI Creation and Events.pdb
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI_Creation_and_Events.Form1.resources
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI_Creation_and_Events.Properties.Resources.resources
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.csproj.GenerateResource.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.exe
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\GUI Creation and Events\obj\Debug\GUI Creation and Events.pdb

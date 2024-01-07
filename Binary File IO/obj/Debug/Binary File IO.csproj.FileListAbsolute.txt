@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Binary File IO\bin\Debug\Binary File IO.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Binary File IO\bin\Debug\Binary File IO.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Binary File IO\bin\Debug\Binary File IO.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Binary File IO\obj\Debug\Binary File IO.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Binary File IO\obj\Debug\Binary File IO.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Binary File IO\obj\Debug\Binary File IO.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Binary File IO\obj\Debug\Binary File IO.pdb

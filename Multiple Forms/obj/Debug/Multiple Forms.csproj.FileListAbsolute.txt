@@ -1,0 +1,22 @@
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\bin\Debug\Multiple Forms.exe.config
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\bin\Debug\Multiple Forms.exe
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\bin\Debug\Multiple Forms.pdb
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple_Forms.Form1.resources
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple_Forms.Properties.Resources.resources
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.csproj.GenerateResource.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.exe
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.pdb
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\bin\Debug\Multiple Forms.exe.config
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\bin\Debug\Multiple Forms.exe
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\bin\Debug\Multiple Forms.pdb
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple_Forms.Form1.resources
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple_Forms.GameForm.resources
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple_Forms.Properties.Resources.resources
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.csproj.GenerateResource.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.exe
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple Forms.pdb
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Multiple Forms\obj\Debug\Multiple_Forms.GameForm.resources

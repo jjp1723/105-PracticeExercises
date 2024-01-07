@@ -1,0 +1,14 @@
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\bin\Debug\Properties.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\bin\Debug\Properties.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\bin\Debug\Properties.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\bin\Debug\Properties.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\bin\Debug\Properties.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\bin\Debug\Properties.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Properties\obj\Debug\Properties.pdb

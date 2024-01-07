@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Events and Delegates\bin\Debug\Events and Delegates.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Events and Delegates\bin\Debug\Events and Delegates.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Events and Delegates\bin\Debug\Events and Delegates.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Events and Delegates\obj\Debug\Events and Delegates.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Events and Delegates\obj\Debug\Events and Delegates.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Events and Delegates\obj\Debug\Events and Delegates.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Events and Delegates\obj\Debug\Events and Delegates.pdb

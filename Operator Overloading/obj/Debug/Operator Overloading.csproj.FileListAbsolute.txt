@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\bin\Debug\Operator Overloading.exe.config
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\bin\Debug\Operator Overloading.exe
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\bin\Debug\Operator Overloading.pdb
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.exe
+F:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.pdb
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\bin\Debug\Operator Overloading.exe.config
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\bin\Debug\Operator Overloading.exe
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\bin\Debug\Operator Overloading.pdb
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.exe
+G:\School Stuff\RIT\GDAPS 1\Practice Exercises\Operator Overloading\obj\Debug\Operator Overloading.pdb

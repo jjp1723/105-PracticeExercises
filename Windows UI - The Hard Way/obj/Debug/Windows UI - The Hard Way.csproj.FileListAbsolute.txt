@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Windows UI - The Hard Way\bin\Debug\Windows UI - The Hard Way.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Windows UI - The Hard Way\bin\Debug\Windows UI - The Hard Way.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Windows UI - The Hard Way\bin\Debug\Windows UI - The Hard Way.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Windows UI - The Hard Way\obj\Debug\Windows UI - The Hard Way.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Windows UI - The Hard Way\obj\Debug\Windows UI - The Hard Way.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Windows UI - The Hard Way\obj\Debug\Windows UI - The Hard Way.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Windows UI - The Hard Way\obj\Debug\Windows UI - The Hard Way.pdb

@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\Number Guessing Game\bin\Debug\Number Guessing Game.exe.config
+F:\School Stuff\RIT\GDAPS\Number Guessing Game\bin\Debug\Number Guessing Game.exe
+F:\School Stuff\RIT\GDAPS\Number Guessing Game\bin\Debug\Number Guessing Game.pdb
+F:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.exe
+F:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.pdb
+G:\School Stuff\RIT\GDAPS\Number Guessing Game\bin\Debug\Number Guessing Game.exe.config
+G:\School Stuff\RIT\GDAPS\Number Guessing Game\bin\Debug\Number Guessing Game.exe
+G:\School Stuff\RIT\GDAPS\Number Guessing Game\bin\Debug\Number Guessing Game.pdb
+G:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.exe
+G:\School Stuff\RIT\GDAPS\Number Guessing Game\obj\Debug\Number Guessing Game.pdb

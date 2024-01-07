@@ -1,0 +1,7 @@
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionary Search and Complexity\bin\Debug\Dictionary Search and Complexity.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionary Search and Complexity\bin\Debug\Dictionary Search and Complexity.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionary Search and Complexity\bin\Debug\Dictionary Search and Complexity.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionary Search and Complexity\obj\Debug\Dictionary Search and Complexity.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionary Search and Complexity\obj\Debug\Dictionary Search and Complexity.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionary Search and Complexity\obj\Debug\Dictionary Search and Complexity.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Dictionary Search and Complexity\obj\Debug\Dictionary Search and Complexity.pdb

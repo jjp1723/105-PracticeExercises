@@ -1,0 +1,14 @@
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\bin\Debug\Indexers and Generics.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\bin\Debug\Indexers and Generics.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\bin\Debug\Indexers and Generics.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\bin\Debug\Indexers and Generics.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\bin\Debug\Indexers and Generics.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\bin\Debug\Indexers and Generics.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Indexers and Generics\obj\Debug\Indexers and Generics.pdb

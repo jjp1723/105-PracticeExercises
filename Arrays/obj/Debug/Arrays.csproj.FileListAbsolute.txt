@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\Arrays\bin\Debug\Arrays.exe.config
+F:\School Stuff\RIT\GDAPS\Arrays\bin\Debug\Arrays.exe
+F:\School Stuff\RIT\GDAPS\Arrays\bin\Debug\Arrays.pdb
+F:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.exe
+F:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.pdb
+G:\School Stuff\RIT\GDAPS\Arrays\bin\Debug\Arrays.exe.config
+G:\School Stuff\RIT\GDAPS\Arrays\bin\Debug\Arrays.exe
+G:\School Stuff\RIT\GDAPS\Arrays\bin\Debug\Arrays.pdb
+G:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.exe
+G:\School Stuff\RIT\GDAPS\Arrays\obj\Debug\Arrays.pdb

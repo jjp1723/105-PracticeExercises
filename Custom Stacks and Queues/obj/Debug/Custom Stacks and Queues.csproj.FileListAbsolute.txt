@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\bin\Debug\Custom Stacks and Queues.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\bin\Debug\Custom Stacks and Queues.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\bin\Debug\Custom Stacks and Queues.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\obj\Debug\Custom Stacks and Queues.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\bin\Debug\Custom Stacks and Queues.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\bin\Debug\Custom Stacks and Queues.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Custom Stacks and Queues\bin\Debug\Custom Stacks and Queues.pdb

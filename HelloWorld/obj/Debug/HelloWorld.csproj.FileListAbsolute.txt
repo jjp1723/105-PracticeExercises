@@ -1,0 +1,14 @@
+Z:\IGMProfile\Desktop\GDAPS\HelloWorld\bin\Debug\HelloWorld.exe.config
+Z:\IGMProfile\Desktop\GDAPS\HelloWorld\bin\Debug\HelloWorld.exe
+Z:\IGMProfile\Desktop\GDAPS\HelloWorld\bin\Debug\HelloWorld.pdb
+Z:\IGMProfile\Desktop\GDAPS\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+Z:\IGMProfile\Desktop\GDAPS\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\GDAPS\HelloWorld\obj\Debug\HelloWorld.exe
+Z:\IGMProfile\Desktop\GDAPS\HelloWorld\obj\Debug\HelloWorld.pdb
+F:\GDAPS\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\GDAPS\HelloWorld\bin\Debug\HelloWorld.exe
+F:\GDAPS\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\GDAPS\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+F:\GDAPS\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+F:\GDAPS\HelloWorld\obj\Debug\HelloWorld.exe
+F:\GDAPS\HelloWorld\obj\Debug\HelloWorld.pdb

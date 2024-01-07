@@ -1,0 +1,14 @@
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\bin\Debug\Abstract Classes and Enums.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\bin\Debug\Abstract Classes and Enums.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\bin\Debug\Abstract Classes and Enums.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\bin\Debug\Abstract Classes and Enums.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\bin\Debug\Abstract Classes and Enums.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\bin\Debug\Abstract Classes and Enums.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Abstract Classes and Enums\obj\Debug\Abstract Classes and Enums.pdb

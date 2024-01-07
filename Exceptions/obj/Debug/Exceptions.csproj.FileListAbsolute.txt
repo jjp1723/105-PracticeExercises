@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\bin\Debug\Exceptions.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\bin\Debug\Exceptions.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\bin\Debug\Exceptions.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\bin\Debug\Exceptions.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\bin\Debug\Exceptions.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\bin\Debug\Exceptions.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Exceptions\obj\Debug\Exceptions.pdb

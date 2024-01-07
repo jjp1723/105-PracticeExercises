@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\Strings\bin\Debug\Strings.exe.config
+F:\School Stuff\RIT\GDAPS\Strings\bin\Debug\Strings.exe
+F:\School Stuff\RIT\GDAPS\Strings\bin\Debug\Strings.pdb
+F:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.exe
+F:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.pdb
+G:\School Stuff\RIT\GDAPS\Strings\bin\Debug\Strings.exe.config
+G:\School Stuff\RIT\GDAPS\Strings\bin\Debug\Strings.exe
+G:\School Stuff\RIT\GDAPS\Strings\bin\Debug\Strings.pdb
+G:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.exe
+G:\School Stuff\RIT\GDAPS\Strings\obj\Debug\Strings.pdb

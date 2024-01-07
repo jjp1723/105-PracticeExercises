@@ -1,0 +1,14 @@
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\bin\Debug\Interfaces.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\bin\Debug\Interfaces.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\bin\Debug\Interfaces.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\bin\Debug\Interfaces.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\bin\Debug\Interfaces.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\bin\Debug\Interfaces.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\Interfaces\obj\Debug\Interfaces.pdb

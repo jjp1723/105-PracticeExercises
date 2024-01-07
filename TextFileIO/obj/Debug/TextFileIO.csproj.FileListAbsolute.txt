@@ -1,0 +1,14 @@
+G:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.exe.config
+G:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.pdb
+G:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.csprojAssemblyReference.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.csproj.CoreCompileInputs.cache
+G:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.exe
+G:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.exe.config
+F:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\bin\Debug\TextFileIO.pdb
+F:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.csprojAssemblyReference.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.csproj.CoreCompileInputs.cache
+F:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.exe
+F:\School Stuff\RIT\GDAPS\Practice Exercises\TextFileIO\obj\Debug\TextFileIO.pdb
